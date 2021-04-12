@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample Automation Task" thread-count="2" parallel="methods">
+    <test name="Sample Automation">
+        <classes>
+            <class name="testcoursework"></class>
+        </classes>
+    </test>
+</suite>
